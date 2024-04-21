@@ -8,7 +8,7 @@
   - optimal [X,Y] coordinates of warehouse
 - in constructed graph:
   - consumers are represented by blue dots
-  - optimal warehouse displayed as red dot
+  - optimal placement of warehouse displayed as red dot
   - ![изображение](https://github.com/jacowci61/Determine-Optimal-Location-of-Warehouse/assets/67823534/1fd6a071-29de-4e2e-b3bd-a642f7118860)
 
  
