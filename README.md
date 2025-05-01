@@ -6,12 +6,10 @@
 - in CMD window you can see two output strings:
   - list of consumers, where each consumer element has [X coordinate, Y coordinate, Consumption volume, Transportation cost]
   - optimal [X,Y] coordinates of warehouse
+  - ![54ebe84e-e182-4f42-8e51-b85ade2f7bf6](https://github.com/user-attachments/assets/adb7d4be-460a-4b20-9045-f8e45126c13a)
 - in constructed graph:
   - consumers are represented by blue dots
   - optimal placement of warehouse displayed as red dot
-![изображение](https://github.com/jacowci61/Determine-Optimal-Location-of-Warehouse/assets/67823534/1fd6a071-29de-4e2e-b3bd-a642f7118860)
-![54ebe84e-e182-4f42-8e51-b85ade2f7bf6](https://github.com/user-attachments/assets/adb7d4be-460a-4b20-9045-f8e45126c13a)
-
- 
+  - ![изображение](https://github.com/jacowci61/Determine-Optimal-Location-of-Warehouse/assets/67823534/1fd6a071-29de-4e2e-b3bd-a642f7118860)
 ## Notes:
 - X and Y coordinates limited to [0;110] diaposon in published code
